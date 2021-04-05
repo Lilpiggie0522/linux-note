@@ -4,7 +4,7 @@
 # Looking for file or directory
 > $ ls | grep FILE_NAME
 
-# Displays a file conteng
+# Displays a file content
 > $ cat FILE_NAME
 
 # Deletes a file
