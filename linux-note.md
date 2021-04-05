@@ -12,3 +12,6 @@
 
 # Deletes a directory
 > $ rmdir NAME
+
+# Trace Route
+> $ traceroute GITHUB.COM
