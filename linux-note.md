@@ -1,10 +1,10 @@
-# Rename directories on linux using mv
+# Renames directories on linux using mv
 > $ mv SOURCE_DIRECTORY TARGET_DIRECTORY
 
 # Looking for file or directory
 > $ ls | grep FILE_NAME
 
-# Display a file conteng
+# Displays a file conteng
 > $ cat FILE_NAME
 
 # Deletes a file
